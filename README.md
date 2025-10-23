@@ -5,7 +5,8 @@ I'm Magda and I'm from Viana do Castelo, however, I'm currently living in Porto 
 --------------------------------------------
 
 ## Education:
-BSc in Artificial Intelligence and Data Science - 2022/Ongoing - Faculdade de Ciências da Universidade do Porto
+BSc in Artificial Intelligence and Data Science - 2022/2025 - Faculdade de Ciências da Universidade do Porto
+MSc in Artificial Intelligence - 2025/Ongoing - Faculdade de Engenharia da Universidade do Porto 
 
 ## Stats:
 
